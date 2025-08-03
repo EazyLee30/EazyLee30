@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning web3 building
 
-- 📫 Contact me **0xeazylee@gmail.com** | 
+- 📫 Contact me **0xeazylee@gmail.com**
 
 
 
