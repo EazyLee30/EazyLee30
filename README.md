@@ -1,4 +1,3 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=EazyLee30&theme=shadow_green&show_icons=true">
 
 
 - 👋 Hi, I'm @EazyLee30
