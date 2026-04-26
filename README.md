@@ -2,9 +2,7 @@
 
 # Hi, I'm EazyLee 👋
 
----
-
-📍 Online ↔ China | 🤖 AI + Web3 builder | 🚀 FOFO Studio
+📍 Shanghai, China | 🤖 Vibe coding with Codex + Cursor | 🚀 FOFO Studio
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
@@ -13,11 +11,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat&logo=cursor&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![E-Ink](https://img.shields.io/badge/E--Ink-555555?style=flat&logo=readthedocs&logoColor=white)
 
-> Building practical software around AI, Web3, education, and devices. I like projects that start as a weird idea and end as something people can actually use.
+> Deep in vibe-coding mode, building practical software around AI, Web3, education, and devices with Codex and Cursor. I like projects that start as a weird idea and end as something people can actually use.
 
 🔎 [eazylee.xyz](https://eazylee.xyz) - my web home base for projects, notes, and experiments.
 
@@ -44,10 +44,10 @@
 
 ## What I'm Doing
 
-- 🚢 Shipping small AI-native products and school/workflow tools.
+- 🚢 Shipping small AI-native products and school/workflow tools from Shanghai.
+- 🤖 Vibe coding with Codex and Cursor to move from idea to working product fast.
 - 🧪 Exploring Web3 + AIGC experiments through [FOFO Studio](https://github.com/EazyLee30/fofo-studio).
 - 📖 Building Chinese-friendly utilities for e-ink devices, EPUB libraries, and local-first workflows.
-- ⚡ Turning one-off ideas into deployable demos, CLIs, and web apps.
 
 ## Connect
 
