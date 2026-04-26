@@ -40,7 +40,9 @@ FOFO Studio | Web3 + AIGC builder | Tools for education, culture, and odd little
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-eazylee.xyz-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://eazylee.xyz)
-[![X](https://img.shields.io/badge/X-@0xEzLee-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xEzLee)
+[![X](https://img.shields.io/badge/X-@0xEzLee-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xEzLee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eazylee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eazylee)
+[![Instagram](https://img.shields.io/badge/Instagram-0xeazylee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xeazylee)
 [![Email](https://img.shields.io/badge/Email-0xeazylee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xeazylee@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-EazyLee30-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EazyLee30)
 
