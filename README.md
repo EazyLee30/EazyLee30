@@ -37,10 +37,6 @@ GPS-based anti-fraud voting system built with Next.js, Prisma, Tailwind CSS, and
 
 Creative full-stack AI + IoT teaching platform prototype. It explores RAG-assisted lesson generation, community remix flows, leaderboards, and a strong visual learning interface.
 
-### [TrendRadarFactory](https://github.com/EazyLee30/TrendRadarFactory)
-
-GitHub Actions content factory mirror for TrendRadar-related workflows. Original TrendRadar project: [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar).
-
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -61,4 +57,3 @@ GitHub Actions content factory mirror for TrendRadar-related workflows. Original
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=github-compact&hide_border=true&area=true">
   <img alt="EazyLee30's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=github-compact&hide_border=true&area=true">
 </picture>
-
