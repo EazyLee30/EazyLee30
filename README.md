@@ -1,8 +1,47 @@
 <sub><samp>EazyLee30/README.md</samp></sub>
 
-# Hi, I'm EazyLee 👋
+# Hi, I'm EazyLee
 
-📍 Shanghai, China | 🤖 Vibe coding with Codex + Cursor | 🚀 FOFO Studio
+Information Technology and AI teacher in Shanghai, building practical software for AI education, Chinese learning workflows, and e-ink devices.
+
+I like projects that begin in a real classroom or daily workflow, then become tools people can actually run, test, and improve.
+
+[Website](https://eazylee.xyz) · [X / Twitter](https://x.com/0xEzLee) · [Email](mailto:0xeazylee@gmail.com)
+
+## Focus
+
+- AI education tools for coding classes, lesson design, and student projects
+- Full-stack prototypes with TypeScript, Next.js, Python, Prisma, Supabase, and Vercel
+- Chinese-localized utilities for reading, publishing, and knowledge workflows
+- E-ink device experiments, desktop tooling, and small hardware-adjacent products
+
+## Featured Work
+
+### [XFXCode Project](https://github.com/EazyLee30/xfxcode-project)
+
+Public release and documentation repo for XFXCode, an AI IDE designed for classroom vibe coding, project-based learning, and student programming practice.
+
+### [EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)
+
+PC screen casting server for EDC Book / M5Stack Paper e-ink devices, with real-time streaming, touch control, mDNS discovery, and Windows/macOS release builds.
+
+### [Xalibre-zh](https://github.com/EazyLee30/xalibre-zh)
+
+Chinese-localized and enhanced EPUB library manager and XTC conversion tool for e-ink readers, with typography controls, metadata fetching, and device workflow support.
+
+### [Location Voting App](https://github.com/EazyLee30/location-voting-app)
+
+GPS-based anti-fraud voting system built with Next.js, Prisma, Tailwind CSS, and Baidu Map. Supports map picking, radius checks, coordinate conversion, and voting feedback.
+
+### [EBYZ](https://github.com/EazyLee30/EBYZ)
+
+Creative full-stack AI + IoT teaching platform prototype. It explores RAG-assisted lesson generation, community remix flows, leaderboards, and a strong visual learning interface.
+
+### [TrendRadarFactory](https://github.com/EazyLee30/TrendRadarFactory)
+
+GitHub Actions content factory mirror for TrendRadar-related workflows. Original TrendRadar project: [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar).
+
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
@@ -10,29 +49,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat&logo=cursor&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![E-Ink](https://img.shields.io/badge/E--Ink-555555?style=flat&logo=readthedocs&logoColor=white)
-
-> Deep in vibe-coding mode, building practical software around AI, Web3, education, and devices with Codex and Cursor. I like projects that start as a weird idea and end as something people can actually use.
-
-🔎 [eazylee.xyz](https://eazylee.xyz) - my web home base for projects, notes, and experiments.
-
-## Current Projects
-
-- 🧠 [EBYZ](https://github.com/EazyLee30/EBYZ) - EveryBody YingZheng: an AIGC + IoT full-stack teaching platform. ([live](https://ebyz.vercel.app))
-- 🛠️ [XFXCode Project](https://github.com/EazyLee30/xfxcode-project) - AI IDE built for Shanghai Xin Fuxing Junior High School workflows.
-- 📍 [location-voting-app](https://github.com/EazyLee30/location-voting-app) - GPS-based anti-fraud voting with map picking, distance checks, device fingerprinting, and live stats.
-- 📚 [xalibre-zh](https://github.com/EazyLee30/xalibre-zh) - Chinese-localized EPUB library management and XTC conversion for e-ink readers.
-- 🖥️ [edcbook-caster](https://github.com/EazyLee30/edcbook-caster) - Cast a PC screen to EDC Book / M5Stack Paper e-ink devices. ([releases](https://github.com/EazyLee30/edcbook-caster/releases))
-- ⚙️ [TrendRadarFactory](https://github.com/EazyLee30/TrendRadarFactory) - GitHub Actions content factory mirror for TrendRadar.
-- ✨ [fofo-studio](https://github.com/EazyLee30/fofo-studio) - For Others, For Ourselves: a Web3 + AIGC + culture platform.
-- 🌐 [eazylee30.github.io](https://github.com/EazyLee30/eazylee30.github.io) - GitHub Pages home base.
-- 🎮 [heisi-game](https://github.com/EazyLee30/heisi-game) - Web game experiment, shipped on Vercel. ([play](https://heisi-game.vercel.app))
-- 🧩 [ReLife_Club](https://github.com/EazyLee30/ReLife_Club) - JavaScript project archive and experiments.
 
 ## GitHub Activity
 
@@ -42,24 +62,3 @@
   <img alt="EazyLee30's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=github-compact&hide_border=true&area=true">
 </picture>
 
-## What I'm Doing
-
-- 🚢 Shipping small AI-native products and school/workflow tools from Shanghai.
-- 🤖 Vibe coding with Codex and Cursor to move from idea to working product fast.
-- 🧪 Exploring Web3 + AIGC experiments through [FOFO Studio](https://github.com/EazyLee30/fofo-studio).
-- 📖 Building Chinese-friendly utilities for e-ink devices, EPUB libraries, and local-first workflows.
-
-## Connect
-
-[![X](https://img.shields.io/badge/@0xEzLee-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xEzLee)
-[![LinkedIn](https://img.shields.io/badge/EazyLee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eazylee)
-[![Website](https://img.shields.io/badge/eazylee.xyz-FF6A00?style=flat&logo=safari&logoColor=white)](https://eazylee.xyz)
-[![Instagram](https://img.shields.io/badge/0xeazylee-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/0xeazylee)
-[![Email](https://img.shields.io/badge/0xeazylee%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0xeazylee@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/EazyLee30)
-
----
-
-### Philosophy
-
-> Ship the weird useful thing first. Polish it while people are already trying it.
