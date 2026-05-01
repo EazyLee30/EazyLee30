@@ -1,67 +1,54 @@
-<sub><samp>EazyLee30/README.md</samp></sub>
+# Hi, I'm EazyLee 👋
 
-# Hi, I'm EazyLee
+📍 **Shanghai** | 🧑‍🏫 **IT & AI Teacher** | 🔨 **Builder of things that start in a classroom**
 
-Information Technology and AI teacher in Shanghai, building practical software for AI education, Chinese learning workflows, and e-ink devices.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
+![E-Ink](https://img.shields.io/badge/-E--Ink-555555?style=flat-square&logo=readthedocs&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-I like projects that begin in a real classroom or daily workflow, then become tools people can actually run, test, and improve.
+> Every project here started as a real problem in a real classroom or daily workflow. If it doesn't actually run, it doesn't ship.
 
-[Website](https://eazylee.xyz) · [X / Twitter](https://x.com/0xEzLee) · [Email](mailto:0xeazylee@gmail.com)
+## Projects
 
-## Focus
-
-- AI education tools for coding classes, lesson design, and student projects
-- Full-stack prototypes with TypeScript, Next.js, Python, Prisma, Supabase, and Vercel
-- Chinese-localized utilities for reading, publishing, and knowledge workflows
-- E-ink device experiments, desktop tooling, and small hardware-adjacent products
-
-## Featured Work
-
-### [XFXCode Project](https://github.com/EazyLee30/xfxcode-project)
-
-Public release and documentation repo for XFXCode, an AI IDE designed for classroom vibe coding, project-based learning, and student programming practice.
-
-### [Phyphox ESP32 Agent](https://github.com/EazyLee30/phyphox-esp32-agent)
-
-AI-powered physics lab code generator. Describe an experiment in natural language and get ready-to-run ESP32 + Phyphox sketches, designed for classroom use with real sensor hardware.
-
-### [XFXMD](https://github.com/EazyLee30/xfxmd)
-
-Collaborative Markdown platform with real-time multi-user editing, built for classroom note-taking and shared documentation workflows.
-
-### [EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)
-
-PC screen casting server for EDC Book / M5Stack Paper e-ink devices, with real-time streaming, touch control, mDNS discovery, and Windows/macOS release builds.
-
-### [Xalibre-zh](https://github.com/EazyLee30/xalibre-zh)
-
-Chinese-localized and enhanced EPUB library manager and XTC conversion tool for e-ink readers, with typography controls, metadata fetching, and device workflow support.
-
-### [Location Voting App](https://github.com/EazyLee30/location-voting-app)
-
-GPS-based anti-fraud voting system built with Next.js, Prisma, Tailwind CSS, and Baidu Map. Supports map picking, radius checks, coordinate conversion, and voting feedback.
-
-### [EBYZ](https://github.com/EazyLee30/EBYZ)
-
-Creative full-stack AI + IoT teaching platform prototype. It explores RAG-assisted lesson generation, community remix flows, leaderboards, and a strong visual learning interface.
-
-## Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
-![E-Ink](https://img.shields.io/badge/E--Ink-555555?style=flat&logo=readthedocs&logoColor=white)
+- 🤖 **[Phyphox ESP32 Agent](https://github.com/EazyLee30/phyphox-esp32-agent)** — AI-powered physics lab code generator for ESP32 + Phyphox sensors
+- 💻 **[XFXCode Project](https://github.com/EazyLee30/xfxcode-project)** — AI IDE for classroom vibe coding and project-based learning
+- ✍️ **[XFXMD](https://github.com/EazyLee30/xfxmd)** — Collaborative Markdown platform with real-time multi-user editing
+- 📺 **[EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)** — PC screen casting to e-ink devices (EDC Book / M5Stack Paper)
+- 📚 **[Xalibre-zh](https://github.com/EazyLee30/xalibre-zh)** — Chinese-localized EPUB library manager and XTC conversion tool for e-ink readers
+- 🗳️ **[Location Voting App](https://github.com/EazyLee30/location-voting-app)** — GPS-based anti-fraud voting system with Next.js, Prisma & Baidu Map
+- 🪦 **[EBYZ](https://github.com/EazyLee30/EBYZ)** — Creative AI + IoT teaching platform prototype with RAG-assisted lesson generation
 
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=react-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=github-compact&hide_border=true&area=true">
-  <img alt="EazyLee30's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EazyLee30&theme=github-compact&hide_border=true&area=true">
-</picture>
+![GitHub Contribution Graph](https://ghchart.rshah.org/EazyLee30)
+
+## What I'm Building
+
+- **AI tools for education** — making coding and physics labs accessible in real classrooms
+- **Chinese-localized utilities** — reading, publishing, and knowledge workflows for Chinese users
+- **E-ink experiments** — pushing the boundaries of what e-ink devices can do
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-eazylee.xyz-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://eazylee.xyz)
+[![Twitter](https://img.shields.io/badge/-@0xEzLee-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/0xEzLee)
+[![Email](https://img.shields.io/badge/-0xeazylee@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:0xeazylee@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EazyLee30)
+
+---
+
+<details>
+<summary>Random Facts</summary>
+
+- I teach IT and AI to high school students in Shanghai
+- I vibe-code most of my projects during weekends and holidays
+- I believe the best tools are the ones that solve a problem you actually have
+- E-ink screens are underrated
+
+</details>
