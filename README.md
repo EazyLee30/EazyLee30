@@ -21,6 +21,14 @@ I like projects that begin in a real classroom or daily workflow, then become to
 
 Public release and documentation repo for XFXCode, an AI IDE designed for classroom vibe coding, project-based learning, and student programming practice.
 
+### [Phyphox ESP32 Agent](https://github.com/EazyLee30/phyphox-esp32-agent)
+
+AI-powered physics lab code generator. Describe an experiment in natural language and get ready-to-run ESP32 + Phyphox sketches, designed for classroom use with real sensor hardware.
+
+### [XFXMD](https://github.com/EazyLee30/xfxmd)
+
+Collaborative Markdown platform with real-time multi-user editing, built for classroom note-taking and shared documentation workflows.
+
 ### [EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)
 
 PC screen casting server for EDC Book / M5Stack Paper e-ink devices, with real-time streaming, touch control, mDNS discovery, and Windows/macOS release builds.
