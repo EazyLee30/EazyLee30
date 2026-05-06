@@ -16,7 +16,6 @@
 
 ## Projects
 
-- 🤖 **[Phyphox ESP32 Agent](https://github.com/EazyLee30/phyphox-esp32-agent)** — AI-powered physics lab code generator for ESP32 + Phyphox sensors
 - 💻 **[XFXCode Project](https://github.com/EazyLee30/xfxcode-project)** — AI IDE for classroom vibe coding and project-based learning
 - ✍️ **[XFXMD](https://github.com/EazyLee30/xfxmd)** — Collaborative Markdown platform with real-time multi-user editing
 - 📺 **[EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)** — PC screen casting to e-ink devices (EDC Book / M5Stack Paper)
