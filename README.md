@@ -1,6 +1,6 @@
 # Hi, I'm EazyLee 👋
 
-📍 **Shanghai** | 🧑‍🏫 **IT & AI Teacher** | 🔨 **Builder of things that start in a classroom**
+🧑‍🏫 **IT & AI Teacher** | 🔨 **Builder of things that start in a classroom**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
