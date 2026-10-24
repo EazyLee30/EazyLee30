@@ -14,14 +14,52 @@
 
 > Every project here started as a real problem in a real classroom or daily workflow. If it doesn't actually run, it doesn't ship.
 
-## Projects
+## Projects, lately
 
-- 💻 **[XFXCode Project](https://github.com/EazyLee30/xfxcode-project)** — AI IDE for classroom vibe coding and project-based learning
-- ✍️ **[XFXMD](https://github.com/EazyLee30/xfxmd)** — Collaborative Markdown platform with real-time multi-user editing
-- 📺 **[EDCBook Caster](https://github.com/EazyLee30/edcbook-caster)** — PC screen casting to e-ink devices (EDC Book / M5Stack Paper)
-- 📚 **[Xalibre-zh](https://github.com/EazyLee30/xalibre-zh)** — Chinese-localized EPUB library manager and XTC conversion tool for e-ink readers
-- 🗳️ **[Location Voting App](https://github.com/EazyLee30/location-voting-app)** — GPS-based anti-fraud voting system with Next.js, Prisma & Baidu Map
-- 🪦 **[EBYZ](https://github.com/EazyLee30/EBYZ)** — Creative AI + IoT teaching platform prototype with RAG-assisted lesson generation
+*Six recent builds across personal AI, offline software, and tiny-screen hardware.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/whooper-2.0"><img src="https://raw.githubusercontent.com/EazyLee30/whooper-2.0/main/docs/assets/banner.png" alt="Whooper — Know your rhythm" width="100%"></a>
+<h3>🏃 <a href="https://github.com/EazyLee30/whooper-2.0">Whooper 2.0</a></h3>
+<p>A private WHOOP dashboard and workout journal, with an authenticated, read-only data plugin for ChatGPT and Codex.</p>
+<p><a href="https://whooper.eazylee.si">Try the live demo ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/omascribe"><img src="https://raw.githubusercontent.com/EazyLee30/omascribe/main/assets/banner.svg" alt="OmaScribe — A few words from you. The context from your meeting." width="100%"></a>
+<h3>🎙️ <a href="https://github.com/EazyLee30/omascribe">OmaScribe</a></h3>
+<p>An offline meeting notebook: record, transcribe in two languages, then turn conversation into local AI minutes with source and audio timestamps.</p>
+<p><a href="https://github.com/EazyLee30/omascribe/releases">Get a preview ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/omaberry"><img src="https://raw.githubusercontent.com/EazyLee30/omaberry/main/docs/banner.png" alt="OmaBerry — A native PocketJS desktop for BlackBerry Classic / Q20." width="100%"></a>
+<h3>🍇 <a href="https://github.com/EazyLee30/omaberry">OmaBerry</a></h3>
+<p>A native tiling desktop for BlackBerry Q20: terminals, files, browser and agent tools running directly on BB10 / QNX.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/muse-charm"><img src="https://raw.githubusercontent.com/EazyLee30/muse-charm/main/docs/banner.png" alt="Muse Charm — a little companion that listens, speaks, dances and controls its hardware." width="100%"></a>
+<h3>✨ <a href="https://github.com/EazyLee30/muse-charm">Muse Charm</a></h3>
+<p>A Muse companion on an ESP32-S3 reflective display: push-to-talk, animated reactions, voice replies, sensors and music.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/berrybrowser-cjk"><img src="https://raw.githubusercontent.com/EazyLee30/berrybrowser-cjk/main/assets/banner.svg" alt="Berry Browser CJK — Chinese text on BlackBerry 10, without rebuilding Chromium." width="100%"></a>
+<h3>🌐 <a href="https://github.com/EazyLee30/berrybrowser-cjk">BerryBrowser CJK</a></h3>
+<p>Brings Chinese and emoji rendering to BlackBerry 10's Berry Browser by repacking the official app; its Chromium engine stays byte-for-byte unchanged.</p>
+<p><sub>Text display only; Chinese input remains a BB10 platform limitation.</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/EazyLee30/reberry"><img src="https://raw.githubusercontent.com/EazyLee30/reberry/main/assets/banner.svg" alt="reberry — The keyboard remembers." width="100%"></a>
+<h3>⌨️ <a href="https://github.com/EazyLee30/reberry">reberry</a></h3>
+<p>A BlackBerry Classic restoration journal turned into a reusable agent skill, with practical BB10 recovery, root, SSH and BerryCore notes.</p>
+<p><a href="https://eazylee.xyz/reberry/">Read the field notes ↗</a></p>
+</td>
+</tr>
+</table>
 
 ## GitHub Activity
 
