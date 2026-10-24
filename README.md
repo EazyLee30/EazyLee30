@@ -16,8 +16,6 @@
 
 ## Projects, lately
 
-*Six recent builds across personal AI, offline software, and tiny-screen hardware.*
-
 <table>
 <tr>
 <td width="50%" valign="top">
