@@ -2,15 +2,14 @@
 
 🧑‍🏫 **IT & AI Teacher** | 🔨 **Builder of things that start in a classroom**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
-![E-Ink](https://img.shields.io/badge/-E--Ink-555555?style=flat-square&logo=readthedocs&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Rust](https://img.shields.io/badge/-Rust-A33F29?style=flat-square&logo=rust&logoColor=white)](https://github.com/EazyLee30/omascribe)
+[![Tauri](https://img.shields.io/badge/-Tauri-166E78?style=flat-square&logo=tauri&logoColor=white)](https://github.com/EazyLee30/omascribe)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/EazyLee30/whooper-2.0)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/EazyLee30/berrybrowser-cjk)
+[![Swift](https://img.shields.io/badge/-Swift-BC3F2A?style=flat-square&logo=swift&logoColor=white)](https://github.com/EazyLee30/luck-ring)
+[![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-A52B33?style=flat-square&logo=espressif&logoColor=white)](https://github.com/EazyLee30/muse-charm)
+[![PocketJS](https://img.shields.io/badge/-PocketJS-514781?style=flat-square)](https://github.com/EazyLee30/omaberry)
+[![BB10 / QNX](https://img.shields.io/badge/-BB10%20%2F%20QNX-303B4A?style=flat-square&logo=blackberry&logoColor=white)](https://github.com/EazyLee30/omaberry)
 
 > Every project here started as a real problem in a real classroom or daily workflow. If it doesn't actually run, it doesn't ship.
 
