@@ -60,7 +60,10 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/EazyLee30)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EazyLee30/EazyLee30/naiwa-assets/naiwa-dark.svg">
+  <img src="https://raw.githubusercontent.com/EazyLee30/EazyLee30/naiwa-assets/naiwa.svg" alt="Naiwa the frog hops across EazyLee's GitHub contribution graph">
+</picture>
 
 ## What I'm Building
 
